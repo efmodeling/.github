@@ -21,4 +21,4 @@ Our work sits at the intersection of nonlinear time series analysis, machine lea
 
 ## Contact
 
-For questions or collaborations, please open an issue in the relevant repository or reach out via [Umeå University](https://www.umu.se/en/).
+For questions or collaborations, please open an issue in the relevant repository or reach out via email at [albertas.dvirnas@umu.se](mailto:albertas.dvirnas@umu.se).
