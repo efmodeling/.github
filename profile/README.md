@@ -8,7 +8,7 @@ Our work sits at the intersection of nonlinear time series analysis, machine lea
 
 - **Empirical Dynamical Modelling (EDM)** — state-space reconstruction and nonlinear forecasting for ecological time series
 - **Diffusion Maps** — manifold learning and intrinsic geometry for data-driven prediction
-- **eDNA analysis** — automated detection and flagging of suspicious environmental DNA patterns
+- **eDNA analysis** — long-term monitoring, seasonality detection, and automated flagging of environmental DNA patterns
 - **Scientific communication** — resources and guides for communicating computational science
 
 ## Repositories
@@ -17,6 +17,7 @@ Our work sits at the intersection of nonlinear time series analysis, machine lea
 |---|---|
 | [awesome-EDM](https://github.com/efmodeling/awesome-EDM) | Curated list of EDM papers, software, and resources |
 | [awesome-DM](https://github.com/efmodeling/awesome-DM) | Curated list of Diffusion Maps papers and resources, with a focus on manifold reconstruction and data-driven prediction |
+| [awesome-edna](https://github.com/efmodeling/awesome-edna) | Curated list of eDNA resources, with a focus on environmental DNA as time series data — airborne eDNA, long-term monitoring, and ecological dynamics |
 | [awesome-communication](https://github.com/efmodeling/awesome-communication) | Curated list of science communication resources — papers, guides, and books |
 
 ## Contact
